@@ -64,8 +64,8 @@
 
 ### Python
 
-* [Trinket](https://trinket.io/)
 * [Codepad](http://codepad.org)
+* [Trinket](https://trinket.io/)
 
 
 ### Ruby
